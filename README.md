@@ -30,4 +30,4 @@
 ![Pic 6](https://github.com/marveld21/Credit_Risk_Analysis/blob/main/Resources/Ensemble_AdaBoost_Classifier.PNG)   
 
 ## Summary
-The highest scoring accuracy was the Easy Ensemble AdaBoost Classifier with .93 accuracy. Precision is close to equal for all of the models. The Easy Ensemble AdaBoost Classifier also had the highest recall score of 0.94. Winning multiple categories the Easy Ensemble AdaBoost Classifier is the model we should go forward with.
+### The highest scoring accuracy was the Easy Ensemble AdaBoost Classifier with .93 accuracy. Precision is close to equal for all of the models. The Easy Ensemble AdaBoost Classifier also had the highest recall score of 0.94. Winning multiple categories the Easy Ensemble AdaBoost Classifier is the model we should go forward with.
